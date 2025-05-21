@@ -1,5 +1,5 @@
 # Bloodmoon
-Jogo criado durante o projeto integrado em 2023 
+Jogo criado durante o projeto integrado em 2023 do curso técnico em desenvolvimento de sistemas da escola técnica de eletrônica Francisco Moreira da Costa (ETE FMC).
 
 Integrantes do projeto: Cláduio Vinicius, David Alexandre, Felipe, Heitor Borobrema, Luiz Gabriel, Pedro e Yuri Moreira
 

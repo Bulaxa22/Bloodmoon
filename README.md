@@ -1,7 +1,9 @@
 # Bloodmoon
-Jogo criado durante o projeto integrado em 2023
+Jogo criado durante o projeto integrado em 2023 
 Integrantes do projeto: Cláduio Vinicius, David Alexandre, Felipe, Heitor Borobrema, Luiz Gabriel, Pedro e Yuri Moreira
-Função de cada um:
+
+Créditos
+
 Cláudio: responsável pelo código fonte do jogo, programação das mecânicas, gameplay, etc;
 David Alexandre: Cuidou das artes, mas depois eu e Luiz demos uns retoques finais; 
 Felipe: Ajudou nas artes e programação;
